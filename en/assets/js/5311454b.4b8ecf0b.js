@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkochocast=self.webpackChunkochocast||[]).push([[5430],{2185:e=>{e.exports=JSON.parse('{"tags":[{"label":"Tag","permalink":"/en/blog/tags/tag","description":"tag d\'exemple","count":1}]}')}}]);
